@@ -8,7 +8,7 @@ The aim of this repo is to help Data Scientists to start using Azure Machine Lea
 
 [Lab 3 - Tutorial #2: Deploy an image classification model in Azure Container Instance (ACI)](https://github.com/Azure/MachineLearningNotebooks/blob/master/tutorials/image-classification-mnist-data/img-classification-part2-deploy.ipynb)
 
-[Lab 4 - ML Ops](https://github.com/Azure/mlops-v2)
+[Lab 4 - ML Ops v2](https://github.com/Azure/mlops-v2)
 
 
 
