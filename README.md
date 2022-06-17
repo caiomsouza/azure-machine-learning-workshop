@@ -10,6 +10,7 @@ The aim of this repo is to help Data Scientists to start using Azure Machine Lea
 
 [Lab 4 - ML Ops v2](https://github.com/Azure/mlops-v2)
 
+[Lab 5 - Responsible AI - Assess Fairness, Explore Interpretability, and Mitigate Fairness Issues](https://github.com/Azure/MachineLearningNotebooks/blob/master/how-to-use-azureml/responsible-ai/visualize-upload-loan-decision/rai-loan-decision.ipynb)
 
 
 ### More AML Notebooks
