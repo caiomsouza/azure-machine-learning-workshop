@@ -15,5 +15,7 @@ The aim of this repo is to help Data Scientists to start using Azure Machine Lea
 
 ### More AML Notebooks
 https://github.com/Azure/MachineLearningNotebooks
-
+https://github.com/microsoft/solution-accelerator-many-models
+https://github.com/caiomsouza/aml-cli-v2-in-a-day
+https://github.com/caiomsouza/azure-machine-learning-security
 
