@@ -18,4 +18,5 @@ https://github.com/Azure/MachineLearningNotebooks<BR>
 https://github.com/microsoft/solution-accelerator-many-models<BR> 
 https://github.com/caiomsouza/aml-cli-v2-in-a-day<BR>
 https://github.com/caiomsouza/azure-machine-learning-security<BR>
+https://github.com/microsoft/MLOpsPython<BR>  
 
