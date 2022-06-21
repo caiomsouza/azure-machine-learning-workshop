@@ -3,6 +3,7 @@
 The aim of this repo is to help Data Scientists to start using Azure Machine Learning Workshop.
 
 ![Data Hour Presentation](https://github.com/caiomsouza/azure-machine-learning-workshop/blob/main/pdf_data_hour_presentation_21062022.png)
+[PDF Slides: Building Scalable, Secure and Responsible AI Solutions in Azure](https://github.com/caiomsouza/azure-machine-learning-workshop/blob/main/Building%20Scalable%2C%20Secure%20and%20Responsible%20AI%20Solutions%20in%20Azure_CM_21June2022_DataHour_Microsoft.pdf)
 
 
 [Lab 1 - Auto ML - Classification of credit card fraudulent transactions on remote compute](https://github.com/azure/azureml-examples/blob/main/python-sdk/tutorials/automl-with-azureml/classification-credit-card-fraud/auto-ml-classification-credit-card-fraud.ipynb)
